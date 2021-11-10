@@ -51,7 +51,7 @@
     border-radius: 9px;
 }
 .background{
-    background: rgba(180 139 139 / 70%) url('../img/coding.jpg');
+    background: rgba(180 139 139 / 70%) url('coding.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
